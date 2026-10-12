@@ -174,5 +174,5 @@ Cybersecurity Graduate | Web Development | Information Security
 
 GitHub: [arepdrako123](https://github.com/arepdrako123)
 
-Linkedin: ([[https://github.com/arepdrako123](https://www.linkedin.com/in/muhammad-ismail-arif-0a6a5b390/)](https://www.linkedin.com/in/muhammad-ismail-arif-0a6a5b390/))
+Linkedin: ([(https://www.linkedin.com/in/muhammad-ismail-arif-0a6a5b390/)](https://www.linkedin.com/in/muhammad-ismail-arif-0a6a5b390/))
 
